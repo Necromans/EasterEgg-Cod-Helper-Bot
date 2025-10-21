@@ -1,0 +1,17 @@
+{
+  "start_message": "Hello! I’m your assistant for CoD easter eggs 🧩",
+  "choose_language": "Choose your language 🌍",
+  "language_changed": "Language changed to English 🇺🇸",
+  "start_command_description": "Start interacting with the bot",
+  "help_command_description": "Get help on how to use the bot",
+  "language_command_description": "Change the bot's language",
+  "choose_game_command_description": "Choose a game",
+  "choose_game_message": "Please choose a game from the list below:",
+  "game_selected": "Select a map from the game: {game}.",
+  "choose_next_step": "Choose the next action:",
+  "map_not_found": "❌ Map not found.",
+  "next_step_not_found": "❌ Next step not found.",
+  "error_sending_photo": "❌ Error sending photo.",
+  "error_sending_gif": "❌ Error sending GIF.",
+  "error_sending_file": "❌ Error sending file."
+}

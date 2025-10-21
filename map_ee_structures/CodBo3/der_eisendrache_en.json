@@ -1,0 +1,46 @@
+{
+    "map_name": "Der Eisendrache",
+    "game": "Call of Duty: Black Ops III",
+    "description": "Der Eisendrache is a Zombies map set in a medieval Austrian castle during a snowstorm. It features multiple secrets, elemental bows, and a rich Easter egg storyline.",
+    "steps": {
+        "step1": {
+            "type": "photo",
+            "content": "There are 3 dragons on the map. You need to feed them with zombie souls to unlock the Wrath of the Ancients bow, located near the knight's tomb on the staircase between the command center (church) and the King's Tomb (underground pyramid area).",
+            "image": "assets/Images/CodBo3/Der_Eisendrache/step1.jpg",
+            "next_step": "step2"
+        },
+        "step2": {
+            "type": "multi_photo",
+            "content": [
+                {
+                    "text": "To awaken a dragon, kill one zombie near it and wait for the dragon to start feeding. Then, kill zombies one at a time — wait until the dragon finishes devouring before killing the next one. Each dragon requires 1 zombie to wake up and 7 to fully feed. Once done, the dragon will turn back to stone and crumble."
+                },
+                {
+                    "text": "🐉 The first dragon — located in the courtyard near the teleporter.",
+                    "image": "assets/Images/CodBo3/Der_Eisendrache/dragon1_place.jpg"
+                },
+                {
+                    "text": "🔥 The second dragon — found near the lower entrance to the laboratory.",
+                    "image": "assets/Images/CodBo3/Der_Eisendrache/dragon2_place.jpg"
+                },
+                {
+                    "text": "⚡ The third dragon — located near the clock tower, behind the control room.",
+                    "image": "assets/Images/CodBo3/Der_Eisendrache/dragon3_place.jpg"
+                }
+            ],
+            "next_step": "step3"
+        },
+        "step3": {
+            "type": "photo",
+            "content": "Once all dragons are fed, collect the Wrath of the Ancients bow and activate the four upgrade spots to begin your chosen elemental quest.",
+            "image": "https://example.com/images/der_eisendrache_bow_activation.jpg",
+            "next_step": "step4"
+        },
+        "step4": {
+            "type": "gif",
+            "content": "After building your upgraded bow, proceed to complete the main Easter egg quest by unlocking secret areas and completing ritual challenges.",
+            "gif": "https://example.com/gifs/der_eisendrache_secret_area.gif",
+            "next_step": null
+        }
+    }
+}
